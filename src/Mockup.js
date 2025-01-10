@@ -63,7 +63,7 @@ function YouTube() {
                         <Image src='A3.jpg' alt='Nuevo Audi A3' fluid/>
                     </div>
                     <div>
-                        <Image src='GolfV.jpg' alt='Volkswagen Golf V' fluid/>
+                        <Image src='GolfV.jpg' alt='Volkswagen Golf V'fluid/>
                     </div>
                 </Stack>
                 </Col>
